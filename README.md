@@ -1,38 +1,22 @@
-# create-svelte
+<h1>QuickDex</h1>
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+<p> Hey. You're awake</p>
 
-## Creating a project
+<section><p> Ey up. How's it going. Drinking enough water? Ahh shit me neither. 
+Anyways, welcome. Guess you're wondering what you're doing here. Me too.</p> 
+<p> <i>QuickDex</i> is a small App I'm building with the intention of using it to quickly locate a pokemons dex number so I can log my current living dex.</p>
+</br> 
+<p> Also I need to learn svelte </p>
+</section>
 
-If you're seeing this, you've probably already done this step. Congrats!
+<h1>Installation</h1>
 
-```bash
-# create a new project in the current directory
-npm init svelte
+<li>Type <code>npm install</code> in the terminal</li>
+<li>Then  type <code>npm run dev</code></li>
+This should open up on <a href="http://localhost:3000">localhost:3000</a>
+</section>
 
-# create a new project in my-app
-npm init svelte my-app
-```
 
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+<h2> Commands and Tools used </h2>
+<code>npm init svete@next </code>
+<code>npm i -D svelte-preprocess sass</code>
