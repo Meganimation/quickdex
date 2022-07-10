@@ -5,5 +5,4 @@
     <title>Pokedex</title>
 </svelte:head>
 <Nav/>
-hey
 <slot></slot>
